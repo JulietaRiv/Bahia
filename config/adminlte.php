@@ -45,7 +45,7 @@ return [
     |
     */
 
-    'logo' => '<b></b>',
+    'logo' => '<b>Bahía</b>',
     'logo_img' => '',
     'logo_img_class' => 'brand-image img-circle elevation-3',
     'logo_img_xl' => null,
