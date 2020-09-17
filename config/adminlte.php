@@ -14,7 +14,7 @@ return [
     |
     */
 
-    'title' => 'El Roble',
+    'title' => 'Bahía',
     'title_prefix' => '',
     'title_postfix' => '',
 
@@ -45,12 +45,12 @@ return [
     |
     */
 
-    'logo' => '<b>El Roble</b>',
-    'logo_img' => 'site/images/favicon.png',
+    'logo' => '<b></b>',
+    'logo_img' => '',
     'logo_img_class' => 'brand-image img-circle elevation-3',
     'logo_img_xl' => null,
     'logo_img_xl_class' => 'brand-image-xs',
-    'logo_img_alt' => 'El Roble',
+    'logo_img_alt' => '',
 
     /*
     |--------------------------------------------------------------------------

@@ -11,7 +11,9 @@
     <div class="box">
         <div class="box-header with-border">
         <h3 class="box-title">Marcas</h3>
+        <br>
         <h4><a href="/admin/brands/add"><span class="badge bg-green">Agregar +</span></a></h4>
+        <br>
         </div>  
             <div class="box-body">
                 @if(session()->has('success'))
